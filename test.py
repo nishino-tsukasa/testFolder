@@ -1,4 +1,3 @@
-
 def fun():
   return 100
 if 10:
